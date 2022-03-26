@@ -7,5 +7,3 @@ This section intends to work as a portal for the author's most recent posts on e
 📸Instagram | https://www.instagram.com/ramnoguera/
 
 📰LinkedIn | https://www.linkedin.com/in/ramironoguera/
-
-📊DataCamp | https://www.datacamp.com/profile/ramnoguera
